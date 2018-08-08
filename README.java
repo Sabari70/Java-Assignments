@@ -19,7 +19,6 @@ class AXIS extends Bank
 }
 class Overload
 {
-    int r1,r2;
     public int addition(int x, int y){
         return x+y;
     }
