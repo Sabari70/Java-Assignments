@@ -5,7 +5,7 @@ class Codechef
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
-		ArrayList<integer> al = new ArrayList<>();
+	ArrayList<integer> al = new ArrayList<>();
         al.add(1);
         al.add(1);
         al.add(1);
