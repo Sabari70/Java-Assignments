@@ -6,7 +6,7 @@ class Codechef
 {
 	public static void main (String[] args)
   {
-	    List la = new LinkedList();
+      List la = new LinkedList();
       la.add(5);
       la.add(10);
       la.add(15);
